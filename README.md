@@ -13,6 +13,14 @@
   <img src="misc/chaos_samples.jpg" alt="CHAOS Sample Charts" width="800"/>
 </p>
 
+## ℹ️ About
+What happens when the input is *messy*—blurred labels, typos, occlusions, or color shifts? 🤔 **CHAOS** (***CH***art **A**nalysis with **O**utlier **S**amples) is the *first* benchmark purposely designed to stress‑test MLLMs under realistic noise. We:
+
+* evaluate **10 visual** and **5 textual** perturbations, each at three increasing severity levels (*easy → mid → hard*);
+* span **112,500 perturbed charts** (2️⃣ 5️⃣ 0️⃣ 0️⃣ per perturbation × 3 levels × 15 types);
+* introduce a **Robustness Score** that unifies vision‑ and text‑side degradations for apples‑to‑apples model comparison.
+
+Our goal is simple: **measure how and understand why gracefully MLLMs fail—and, ideally, still succeed—when reality gets noisy.**
 
 ## 🚀 Getting Started
 
