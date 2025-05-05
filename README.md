@@ -1,6 +1,4 @@
-<p align="center">
-  <strong style="font-size: 40px;">🌀 CHAOS: Chart Analysis with Outlier Samples</strong>
-</p>
+<h1 align="center">🌀 CHAOS: Chart Analysis with Outlier Samples</h1>
 
 <p align="center">
   <a href="https://arxiv.org/abs/your-paper-link" target="_blank">
